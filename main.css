@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+section {
+	width: 600px;
+	height: 600px;
+}
+
+.box {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border: 5px solid black;
+}
